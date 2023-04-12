@@ -1,4 +1,4 @@
-### Hi there :sunny:
+# Hi there :sunny:
 
 My name is Malin and i'm studying JavaScript-development at IT-Högskolan in Gothenburg. Feel free to check out my page.
 
