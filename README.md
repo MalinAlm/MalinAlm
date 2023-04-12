@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there :sunny:
+
+My name is Malin and i'm studying JavaScript-development at IT-Högskolan in Gothenburg. Feel free to check out my page.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malin-almqvist/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:almqvist.malin@outlook.com)
 
 <!--
 **MalinAlm/MalinAlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
