@@ -1,9 +1,5 @@
 # Hi there :sunny:
-
-My name is Malin and i'm a junior FrontEnd developer in Gothenburg. Feel free to check out my page.
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malin-almqvist/)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:almqvist.malin@outlook.com)
+Feel free to check out my page.
 
 <!--
 **MalinAlm/MalinAlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
